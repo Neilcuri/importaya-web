@@ -4,7 +4,7 @@ import ImportaYaLogo from "../icons/ImportaYaLogo";
 
 export default function AppHeader() {
   return (
-    <header className="px-4 h-16 border-b">
+    <header className="px-4 h-16 border-b bg-[#001F3F] text-white">
       <section className="max-w-7xl mx-auto w-full flex items-center justify-between h-full">
         <div className="flex flex-1 basis-0 items-center gap-2">
           <ImportaYaLogo className="size-10" />

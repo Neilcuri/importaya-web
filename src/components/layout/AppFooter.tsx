@@ -3,7 +3,7 @@ import ImportaYaLogo from "../icons/ImportaYaLogo";
 
 export default function AppFooter() {
   return (
-    <footer className="border-t pt-10 pb-4">
+    <footer className="border-t pt-10 pb-4 bg-[#003E5F] text-white">
       <section className="max-w-7xl mx-auto">
         <section className="flex justify-between">
           <div>
